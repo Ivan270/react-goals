@@ -4,7 +4,7 @@ import styled from 'styled-components';
 import Button from '../../UI/Button/Button';
 import './CourseInput.css';
 
-// Creating component inside of other component file
+// Creating component inside of another component file
 const FormControl = styled.div`
 	margin: 0.5rem 0;
 
